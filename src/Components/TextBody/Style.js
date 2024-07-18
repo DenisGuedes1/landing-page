@@ -174,7 +174,9 @@ export const FloatingImage = styled.div`
   animation: ${floatAnimation} 1s infinite alternate ease-in-out;
 `;
 export const TherapyDescriptionSection = styled.section`
-    margin-bottom: 20px;
+    text-align: center;
+    margin: 20px 20px 50px 20px;
+    width: 70%;
 `;
 
 export const TherapyTitle = styled.h2`

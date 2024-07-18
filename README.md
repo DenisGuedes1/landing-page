@@ -8,11 +8,6 @@ Frontend:
 React
 Styled-components
 React Icons
-Backend:
-
-Node.js (Express)
-TypeScript
-TypeORM
 Outras Tecnologias:
 
 Axios para requisições HTTP
