@@ -1,0 +1,30 @@
+
+  .floating-image {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    animation: floatAnimation 1s infinite alternate ease-in-out;
+}
+  
+  @keyframes floatAnimation {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-10px);
+    }
+  }
+#iconWhats{
+    width: 70px;
+}
+@media(min-width:768px) {
+    .section-slides-container {
+        height: 580px;
+    }
+
+    .section-slides {
+        height: 500px;
+    }
+
+
+}
